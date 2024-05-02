@@ -1,2 +1,2 @@
 # wpu-git-test
-Repp untuk mencoba git remote
+Repo untuk mencoba git remote
